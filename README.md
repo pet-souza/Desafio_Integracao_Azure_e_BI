@@ -1,4 +1,4 @@
-# Desafio_Integra-o_Azure_e_BI
+# Desafio_Integracao_Azure_e_BI
 Integração de banco de dados criado na Azure com o Power BI para limpeza e tratamento de dados.
 
 Integração, Tratamento e Transformação de Dados com Azure, MySQL e Power BI
